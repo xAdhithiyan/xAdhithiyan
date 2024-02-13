@@ -3,11 +3,18 @@
 
 <h3>Reach Out</h3>
 <ul>
-  <li>Feel free to send me an <a href="mailto:xadhithiyan.work@gmail.com" target="_blank">email</a> or join my professional network on <a href="https://www.linkedin.com/in/adhithiyan-b-url/" target="_blank">LinkedIn</a></li>
-  <li>To see more of my projects and what I'm passionate about, you can visit my <a href="https://adhithiyan-b.vercel.app/">portfolio</a></li>
+  <li>Feel free to send me an <a href="mailto:xadhithiyan.work@gmail.com" target="_blank">Email</a> or join my professional network on <a href="https://www.linkedin.com/in/adhithiyan-b-url/" target="_blank">LinkedIn</a></li>
+  <li>To see more of my projects and what I'm passionate about, you can visit my <a href="https://adhithiyan-b.vercel.app/">Portfolio</a></li>
 </ul>
 
-<h3>My Top Languages</h3>
-<div style="display:flex; justify-content:center; align-items:center;">
-  <img style="width:50%; background-color:#0D1117; padding:10px; border-radius:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=xadhithiyan&show_icons=true&locale=en&layout=compact&theme=dark" alt="xadhithiyan"/>
-</div>
+<h3>Coding Languages & Github Insights</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xadhithiyan&show_icons=true&locale=en&layout=compact&theme=dark" alt="xadhithiyan"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=xadhithiyan&theme=dark" alt="xadhithiyan" />
+    </td>
+  </tr>
+</table>
