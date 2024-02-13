@@ -3,7 +3,7 @@
 
 <h3>Reach Out</h3>
 <ul>
-  <li>Feel free to send me an <a href="mailto:xadhithiyan.work@gmail.com" target="_blank">Email</a> or join my professional network on <a href="https://www.linkedin.com/in/adhithiyan-b-url/" target="_blank">LinkedIn</a></li>
+  <li>Feel free to send me an <a href="mailto:adhithiyan.work@gmail.com" target="_blank">Email</a> or join my professional network on <a href="https://www.linkedin.com/in/adhithiyan-b-url/" target="_blank">LinkedIn</a></li>
   <li>To see more of my projects and what I'm passionate about, you can visit my <a href="https://adhithiyan-b.vercel.app/">Portfolio</a></li>
 </ul>
 
